@@ -83,7 +83,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ```
 ## OUTPUT
-![WhatsApp Image 2026-02-12 at 8 20 55 AM](https://github.com/user-attachments/assets/b6432a23-3691-40d2-8a47-6a4bcfd873ef)
+![alt text](<WhatsApp Image 2026-02-12 at 8.21.05 AM.jpeg>)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -180,7 +180,8 @@ void client() {
 
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2026-02-12 at 8.21.05 AM.jpeg>)
+
+![WhatsApp Image 2026-02-12 at 8 20 55 AM](https://github.com/user-attachments/assets/b6432a23-3691-40d2-8a47-6a4bcfd873ef)
 
 # RESULT:
 The program is executed successfully.
